@@ -23,7 +23,7 @@ Install dependencies: pip install -r requirements.txt
 
 **Evaluate & record best performance:** evaluate.py
 
-### Project Structure
+Project Structure
 
 LunarLanderDuelingDQN/
 ├── evaluate.py       # Optional evaluation script
@@ -34,3 +34,4 @@ LunarLanderDuelingDQN/
 ├── __pycache__/      # Compiled Python files
 │   └── train.cpython-310.pyc
 └── README.md         # Project overview
+
