@@ -24,12 +24,12 @@ Install dependencies: pip install -r requirements.txt
 **Evaluate & record best performance:** evaluate.py
 
 LunarLanderDuelingDQN/
-├── evaluate.py       # Optional evaluation script
-├── lander.mp4        # Optional recorded gameplay
-├── model.pth         # Saved trained model
-├── test_lander.py    # Script to test the agent
-├── train.py          # Training script for the Dueling DQN
-├── __pycache__/      # Compiled Python files
-  ├── train.cpython-310.pyc
-└── README.md         # Project overview
+evaluate.py       # Optional evaluation script
+lander.mp4        # Optional recorded gameplay
+model.pth         # Saved trained model
+test_lander.py    # Script to test the agent
+train.py          # Training script for the Dueling DQN
+/__pycache__/     # Compiled Python files
+  train.cpython-310.pyc
+README.md         # Project overview
 
